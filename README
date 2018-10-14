@@ -1,3 +1,5 @@
 使用之前必须安装ghost.py以及pyside。前者使用pip install ghost.py后者使用apt-get install python-pyside、
 
 原理简单粗暴，直接用ghost.py模拟访问妖火，并签到.
+
+运行前修改`sign.py`中的`用户名`和`密码`
